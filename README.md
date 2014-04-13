@@ -1,4 +1,4 @@
-# Ruby on Rails Tutorial: first application
+# Ruby on Rails
 This is the first application for
 [*ALSDJFAL *](http://FASDF.org/)
 by [tONI AJFL](http://ASDFAS.com/).
